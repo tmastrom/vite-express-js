@@ -1,8 +1,8 @@
-Vite Express Starty
+Vite Express Starter
 ====
 
 ## Overview
-React + Vite application served using Express. Written in JS.
+Example React + Vite application served using Express. Written in JS.
 
 ## Stack Information
 | Concern                | Solution                                                        |
